@@ -8,7 +8,7 @@ Free freight rate API client for global shipping routes from China. No API key r
 
 ## Features
 
-- **20+ global trade lanes** from China to South America, Asia, Europe, Africa, Middle East
+- **20+ global trade lanes** across South America, Asia, Europe, Africa, Middle East
 - **FCL, LCL, and air freight rates** with transit times
 - **SHAQ Freight Rate Index (SFX)** — weekly updated rate data
 - **No API key required** — completely free
